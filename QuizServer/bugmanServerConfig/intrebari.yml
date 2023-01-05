@@ -1,0 +1,11 @@
+inrebari:
+  careestenumarprimu:
+    tip: b
+    categ: MATE
+    intr: Care este numar prim
+    rasp: '2'
+    rasp2: '1'
+    rasp3: '4'
+    rasp4: '6'
+intrList:
+- careestenumarprimu

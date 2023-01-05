@@ -1,0 +1,17 @@
+useriList:
+- 17227d316906c485
+- 46e1409fa02b4a95
+- 1E-71-D9-6D-91-70
+conturi:
+  9afe253b-7e00-4245-ba12-98338b8378a8:
+    nume: Mina
+    pass: WemohHxiZycm+pSs1z+PxA==
+    Scut: 1
+    Resurse: 1
+    Oameni: 1
+    banat: false
+conturiList:
+- 9afe253b-7e00-4245-ba12-98338b8378a8
+useri:
+  1E-71-D9-6D-91-70:
+    contUUID: 9afe253b-7e00-4245-ba12-98338b8378a8
