@@ -7,6 +7,6 @@ Proiectul consta in 2 aplicatii(server si client) care se conecteaza pe acelasi 
 
 Jucatorii sunt adaugati in baza de date cand isi fac cont cu nume si parola.
 
-Fiecare jucator poate fi manageriat de catre server.
+Fiecare jucator poate fi manageriat de catre server prin comenzi specifice care se introduc in consola.
 
 Tehnologii folosite: Java, MySQL
