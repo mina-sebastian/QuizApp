@@ -1,12 +1,33 @@
-# QuizApp
-Aceasta aplicatie este un quiz care poate fi jucat de mai multe persoane.
+# Trivia Game Server and Client Project
 
-Se folosesc pachete de date care se trimit jucatorilor pentru anumite schimbari care se petrec in joc.
+## Server-Side Overview
 
-Proiectul consta in 2 aplicatii(server si client) care se conecteaza pe acelasi IP pentru a juca.
+**Key features:**
+- Implemented a robust trivia game server in Java, handling packet communication, configuration, and game logic.
+- Developed a packet system for efficient communication, featuring various packets.
+- Created a command system to execute actions like banning, unbanning, kicking players, etc.
+- Implemented basic encryption to enhance the security of sensitive information.
+- Demonstrated threading capabilities for handling console input, suggesting asynchronous operation.
 
-Jucatorii sunt adaugati in baza de date cand isi fac cont cu nume si parola.
+**Technologies:**
+- Java
+- YAML Configuration
+- Threading
+- Basic Encryption
+- Packet Communication
+- Command System
 
-Fiecare jucator poate fi manageriat de catre server prin comenzi specifice care se introduc in consola.
+## Client-Side Overview
 
-Tehnologii folosite: Java, MySQL
+**Key features:**
+- Developed a Java-based trivia game client, facilitating user interaction and presentation.
+- Implemented networking functionalities to communicate with the server using a packet system.
+- Provided visual feedback to users based on game events.
+
+**Technologies:**
+- Java
+- Networking
+- Multithreading
+- User Authentication
+- GUI
+- Packet Communication
